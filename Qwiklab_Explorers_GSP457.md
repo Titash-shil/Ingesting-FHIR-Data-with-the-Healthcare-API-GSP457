@@ -10,12 +10,13 @@
 - ### Copy & Run the Commands in Cloud Shell Terminal :
 
 ```
-curl -LO raw.githubusercontent.com/Titash-shil/Monitor-Environments-with-Google-Cloud-Managed-Service-for-Prometheus-Challenge-Lab-GSP364/refs/heads/main/qwiklab_explorers_gsp364.sh
+curl -LO raw.githubusercontent.com/Titash-shil/Ingesting-FHIR-Data-with-the-Healthcare-API-GSP457/refs/heads/main/qwiklab_explorers_GSP457.sh
 
-sudo chmod +x qwiklab_explorers_gsp364.sh
+sudo chmod +x qwiklab_explorers_GSP457.sh
 
-./qwiklab_explorers_gsp364.sh
+./qwiklab_explorers_GSP457.sh
 ```
+- # Follow the next steps from the video carefully
 
 ---
 
@@ -25,6 +26,6 @@ sudo chmod +x qwiklab_explorers_gsp364.sh
 
 ## Thank you for visiting.... :) 🗯️
 
-## [Qwiklab_Explorers_ts](https://youtube.com/@titashshil?si=RgamNu1dc9jVIbJN)
+## [Qwiklab_Explorers](https://youtube.com/@titashshil?si=RgamNu1dc9jVIbJN)
 
 ## Join to our community [Digital Dominators](https://linktr.ee/digital_dominators)
